@@ -1,0 +1,4 @@
+name: FreezeHibernate
+version: '${version}'
+main: de.malfrador.freezehibernate.FreezeHibernate
+api-version: '1.20'
